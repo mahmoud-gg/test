@@ -37,7 +37,7 @@ token = "BOT_TOKN" #توكن البوت
 
 bot = Client(
   'bot'+token.split(":")[0],
-  APP_ID, #ايبي ايدي
+  API_ID, #ايبي ايدي
  'APP_HASH', #ايبي هاش
   bot_token=token, in_memory=True
 )
