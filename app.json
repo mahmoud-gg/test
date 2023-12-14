@@ -1,0 +1,34 @@
+{
+  "name": "بوت",
+  "description": "لـ احلي بيرو",
+  "keywords": [
+    "poop"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  
+  "env": {
+    "APP_ID": {
+      "description": "احـصـل عـلـيـه مـن:my.telegram.org",
+      "required": true,
+      "value": ""
+    },
+    "APP_HASH": {
+      "description": "احـصـل عـلـيـه مـن:my.telegram.org",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "ايديك",
+      "required": true,
+      "value": ""
+    },
+    "BOT_TOKN": {
+      "description": "احـصـل عـلـيـه مـن:t.me/BotFather",
+      "required": true,
+      "value": ""
+    }
+  }
+  }
+  
