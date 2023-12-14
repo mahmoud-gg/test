@@ -1,6 +1,7 @@
 tgcrypto
 DateTime
-dotenv
+python-dotenv
+load-dotenv
 telethon
 Kvsqlite
 pyrogram
