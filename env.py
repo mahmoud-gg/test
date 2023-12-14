@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = os.getenv("APP_ID", "").strip()
+API_ID = os.getenv("API_ID", "").strip()
 API_HASH = os.getenv("APP_HASH", "").strip()
 BOT_TOKEN = os.getenv("BOT_TOKN", "").strip()
 OWNERID = os.getenv("OWNER_ID", "").strip()
