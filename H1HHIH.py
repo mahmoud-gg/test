@@ -31,7 +31,7 @@ from pyrogram import (
 #حقوق احمد @H1HHIH - @Z1ZZIZ
 ownerID = "OWNER_ID" #ايدي الادمن 
 api_hash = "APP_HASH" #ايبي هاش 
-api_id = APP_ID #ايبي ايدي
+api_id = API_ID #ايبي ايدي
 token = "BOT_TOKN" #توكن البوت
 
 
