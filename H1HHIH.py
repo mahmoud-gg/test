@@ -1,4 +1,5 @@
 import asyncio 
+from config import *
 import tgcrypto
 from pyrogram import Client, filters, idle
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, BotCommand
